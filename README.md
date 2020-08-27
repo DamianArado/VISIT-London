@@ -1,4 +1,5 @@
 # VISIT-London
+This is a react application for my travel based startup for people visiting London, United Kingdom. 🇬🇧
 
 ## To check my project :-
 
