@@ -85,7 +85,7 @@ class Header extends Component {
                     <div className="container">
                         <div className="row row-header">
                             <div className="col-12 col-sm-6">
-                                <h1>Visit London®</h1>
+                                <h1>Visit London</h1>
                                 <p>We are your one-stop solution and travel advisory needs in everything you want to know before and while visiting everybody's favourite city London !</p>
                             </div>
                         </div>
