@@ -1,6 +1,6 @@
 # VISIT-London
 
-This is a react application for my travel 🤠 based startup for people visiting London, United Kingdom 🌄. The application is built on the React-Redux Architecture and using RESTful web services architecture 📌. I have developed this Website(SPA) using ReactJs , Redux Architecture and REST API Client Server Communication. 😄
+This is a react application for my travel 🤠 based startup for people visiting London, United Kingdom 🌄. The application is built on the React-Redux Architecture using RESTful web services architecture 📌. I have developed this Website(SPA) using ReactJs , Redux Architecture and REST API Client Server Communication. 😄
 
 ## To check my project 😎 :-
 
